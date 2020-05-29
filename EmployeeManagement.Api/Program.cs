@@ -13,6 +13,7 @@ namespace EmployeeManagement.Api
     {
         public static void Main(string[] args)
         {
+            //comment
             CreateHostBuilder(args).Build().Run();
         }
 
