@@ -49,3 +49,5 @@ C:\projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\
 C:\projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
 C:\projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeDetails.razor.g.cs
 C:\projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails.razor.g.cs
+C:\projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\DatabindingDemo.razor.g.cs
+C:\projects\BlazorTutorial\EmployeeManagement.Web\obj\Debug\netcoreapp3.1\Razor\Pages\DatabindingDemo.razor.g.cs
