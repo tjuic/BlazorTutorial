@@ -21,6 +21,8 @@ namespace EmployeeManagement.Web.Pages
         [Inject]
         public IEmployeeService EmployeeService { get; set; }
 
+        public bool ShowFooter { get; set; } = true;
+
         [Parameter]
         public string Id { get; set; }
 
